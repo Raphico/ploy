@@ -1,0 +1,13 @@
+.bar {
+  width: 100%;
+  height: 1px;
+}
+
+.email {
+  white-space: nowrap;
+}
+
+.sign-in-with-google {
+  width: 100%;
+  justify-content: center;
+}
